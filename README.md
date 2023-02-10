@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=astronomx&label=Visitors&color=1ad90d&style=flat" alt="astronomx" /> </p>
 
-- 🔭 I’m currently working on a twitter replica [stage-logboek]([https://github.com/astronomx/twitter-replica](https://github.com/astronomx/stage-logboek))
+- 🔭 I’m currently working on ![stage-logboek](https://github.com/astronomx/stage-logboek)
 
 - 🌱 I’m currently learning **Next.js**
 
