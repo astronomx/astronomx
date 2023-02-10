@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=astronomx&label=Visitors&color=1ad90d&style=flat" alt="astronomx" /> </p>
 
-- 🔭 I’m currently working on a twitter replica [twitter-replica](https://github.com/astronomx/twitter-replica)
+- 🔭 I’m currently working on a twitter replica [stage-logboek]([https://github.com/astronomx/twitter-replica](https://github.com/astronomx/stage-logboek))
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Next.js**
 
-- 🤝 I’m looking for help with **React and Bootstrap**
+- 🤝 I’m looking for help with **Next.js**
 
 - 💬 Ask me about **What i'm working on**
 
