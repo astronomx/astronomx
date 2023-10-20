@@ -23,7 +23,7 @@ align="right"
 - 👾 <b>Hobby's</b> are programming, hiking and having fun 🎉
 - 📫 <b>Contact me</b> quentinvalen@gmail.com
 
-<br><br>
+<br>
 
 <details>
 <summary><b>📚 Knowledge</b></summary>
@@ -66,7 +66,3 @@ align="right"
   <li><b>More:</b><a href="https://www.linkedin.com/in/quentinvalen" rel="nofollow noreferrer"><img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin">LinkedIn</a></li>
 </ul>
 </details>
-
-
-
-
