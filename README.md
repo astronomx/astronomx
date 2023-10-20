@@ -1,28 +1,70 @@
-![MasterHead](https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966)
-<h1 align="center">Hi 👋, I'm Quentin</h1>
-<h3 align="center">A passionate student developer that likes the front end</h3>
+# <p align="center">Hi 👋, I'm [Quentin Valen!](https://github.com/astronomx/)</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=astronomx&label=Visitors&color=1ad90d&style=flat" alt="astronomx" /> </p>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+</div>
 
-- 🔭 I’m currently working on [Solemarket](https://github.com/astronomx/solemarket)
+<br><br>
 
-- 🌱 I’m currently learning **Next.js**
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" 
+width="375"
+height="250"
+align="right"
+/>
 
-- 🤝 I’m looking for help with **Next.js**
 
-- 💬 Ask me about **What i'm working on**
+### Summary:
+- 💻 <b>Currently</b> I'm in my third year as a student in the Bit-Academy
+- 📝 <b>I have</b> a passion for Front End Development
+- 🌱 <b>Learning</b> Angualar and NextJs
+- 🌟 <b>Languages I mainly use</b>: Typescript, Tailwind and NextJs
+- 👾 <b>Hobby's</b> are programming, hiking and having fun 🎉
+- 📫 <b>Contact me</b> quentinvalen@gmail.com
 
-- 📫 How to reach me **quentinvalen@gmail.com**
+<br><br>
 
-- ⚡ Fun fact **I tend to pick up thing fairly quick**
+<details>
+<summary><b>📚 Knowledge</b></summary>
+<br>
+	
+### 🧮 Learning right now
+<div style="display:flex; flex-direction:row;">
+  <a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/512px-Angular_full_color_logo.svg.png" alt="angular" width="40" height="40" /></a>
+   <a href=https://nextjs.org/"" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" width="40" height="40" alt="next logo"></a>
+</div>
 
-<h3 align="left">Languages:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/vorillaz/devicons/master/!SVG/nodejs.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+### ⚒️ Currently working with
 
-<h3 align="left">Frameworks:</h3>
-<p align="left">
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
- 
-<h3 align="left">Tools:</h3>
-<p align="left">
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/vorillaz/devicons/master/!SVG/npm.svg" alt="npm" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> </p>
+<div style="display:flex; flex-direction:row;">
+  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/vorillaz/devicons/master/!SVG/nodejs.svg" alt="nodejs" width="40" height="40"/></a> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"     /></a>
+  <img class="avatar" alt="tailwindlabs" src="https://avatars.githubusercontent.com/u/67109815?s=88&amp;v=4" width="44" height="44">
+  </div>
+  <br>
+</div>
+
+### 🧰 Tools
+
+<div style="display:flex; flex-direction:row;">
+	<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /></a>
+	<a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/70702eb811036276c75b7ddf33060ee109026fe9/icons/file_type_vscode.svg" height="40" width="40"></a>
+ <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
+ <a href="https://www.notion.com/" target="_blank" rel="noreferrer"><img src=" https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/1024px-Notion-logo.svg.png" alt="notion" width="40" height="40"/></a>
+</div>
+</details>
+
+<details>
+<summary><b>⚙️ Setup</b></summary>
+<br>
+<ul>
+  <li><b>OS:</b> Linux (ArcoLinux)</li>
+  <li><b>Laptop:</b> Zenbook 14 duo (UX482)</li>
+  <li><b>More:</b> <a href="www.linkedin.com/in/quentinvalen" target="_blank">LinkedIn</a></li>
+</ul>
+</details>
+
+
