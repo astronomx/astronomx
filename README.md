@@ -63,6 +63,6 @@ align="right"
 <ul>
   <li><b>OS:</b> Linux (ArcoLinux)</li>
   <li><b>Laptop:</b> Zenbook 14 duo (UX482)</li>
-  <li><b>More:</b><a href="https://www.linkedin.com/in/quentinvalen" rel="nofollow noreferrer"><img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin">LinkedIn</a></li>
+  <li><b>More:</b> <a href="https://www.linkedin.com/in/quentinvalen" rel="nofollow noreferrer"><img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin">LinkedIn</a></li>
 </ul>
 </details>
