@@ -53,7 +53,7 @@ align="right"
 	<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /></a>
 	<a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/70702eb811036276c75b7ddf33060ee109026fe9/icons/file_type_vscode.svg" height="40" width="40"></a>
  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
- <a href="https://www.notion.com/" target="_blank" rel="noreferrer"><img src=" https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/1024px-Notion-logo.svg.png" alt="notion" width="40" height="40"/></a>
+ <a href="https://www.notion.com/" target="_blank" rel="noreferrer"><img src="https://get.site/wp-content/uploads/2021/10/notion-logo.png" alt="notion" width="60" height="40"/></a>
 </div>
 </details>
 
@@ -63,8 +63,10 @@ align="right"
 <ul>
   <li><b>OS:</b> Linux (ArcoLinux)</li>
   <li><b>Laptop:</b> Zenbook 14 duo (UX482)</li>
-  <li><b>More:</b> <a href="www.linkedin.com/in/quentinvalen" target="_blank">LinkedIn</a></li>
+  <li><b>More:</b><a href="https://www.linkedin.com/in/quentinvalen" rel="nofollow noreferrer"><img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin">LinkedIn</a></li>
 </ul>
 </details>
+
+
 
 
