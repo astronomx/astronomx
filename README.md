@@ -16,9 +16,9 @@ align="right"
 
 
 ### Summary:
-- 💻 <b>Currently</b> I'm in my third year as a student in the Bit-Academy
+- 💻 <b>Currently</b> I'm attending HvA
 - 📝 <b>I have</b> a passion for Front End Development
-- 🌱 <b>Learning</b> Angualar and NextJs
+- 🌱 <b>Learning</b> NextJs (might pickup Vue)
 - 🌟 <b>Languages I mainly use</b>: Typescript, Tailwind and NextJs
 - 👾 <b>Hobby's</b> are programming, hiking and having fun 🎉
 - 📫 <b>Contact me</b> quentinvalen@gmail.com
